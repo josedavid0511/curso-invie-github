@@ -1,2 +1,2 @@
 # curso-invie-github
-Aprendiendo github
+Aprendiendo github @jose
